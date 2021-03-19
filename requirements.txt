@@ -6,4 +6,4 @@ pathlib2==2.3.5
 click==6.7
 protobuf==3.10.0
 grpc==0.3-19
-djangorestframework==3.10.3
+djangorestframework==3.11.2
