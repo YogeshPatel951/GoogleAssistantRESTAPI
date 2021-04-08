@@ -1,6 +1,6 @@
 sounddevice==0.3.14
 tenacity==4.12.0
-Django==2.2.8
+Django==2.2.20
 grpcio==1.24.3
 pathlib2==2.3.5
 click==6.7
